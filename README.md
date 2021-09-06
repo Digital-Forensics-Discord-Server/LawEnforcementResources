@@ -1,13 +1,16 @@
 # LawEnforcementResources
+
 Resources provided by the community that can serve to be useful for Law Enforcement worldwide
 
 ## IP Resolution Services
 
-### MaxMind
+* [MaxMind](https://www.maxmind.com/en/home) - useful for resolving IPs. MaxMind is known for offering better geolocation than most other similar services. 
 
-MaxMind is useful for resolving IPs. MaxMind is known for offering better geolocation than most other similar services. 
+## MLA Resources
 
-## Contributing to This Project
+* [UNODC SHERLOC](https://sherloc.unodc.org/cld/en/st/home.html) - Legislation, CNA list and treaties.
+
+# Contributing to This Project
 
 New to GitHub? No problem! Fork this repo by clicking on the `Fork` button on the top right of this page. 
 
