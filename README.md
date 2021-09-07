@@ -10,6 +10,10 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 * [UNODC SHERLOC](https://sherloc.unodc.org/cld/en/st/home.html) - Legislation, CNA list and treaties.
 
+## Ransomware Decryption Resources
+
+* [NO MORE RANSOM](https://www.nomoreransom.org/en/index.html) - Ransomware decryption tools/platform.
+
 # Contributing to This Project
 
 New to GitHub? No problem! Fork this repo by clicking on the `Fork` button on the top right of this page. 
