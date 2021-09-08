@@ -2,6 +2,20 @@
 
 Resources provided by the community that can serve to be useful for Law Enforcement worldwide
 
+## Ransomware Decryption Resources
+
+* [NO MORE RANSOM](https://www.nomoreransom.org/en/index.html) - Ransomware decryption tools/platform.
+
+## Mobile Investigations
+
+### Pin code and pattern lock resources
+
+* [All Possible Pattern Locks](https://github.com/ByteRockstar1996/All-Possible-Pattern-Locks) - text files containing all possible pin combinations to 9 chars.
+* [Predictability of Android lock patterns](https://arstechnica.com/information-technology/2015/08/new-data-uncovers-the-surprising-predictability-of-android-lock-patterns/) - Ars Technica artile about Android lock patterns.
+* [10 Most Common Pattern Locks](https://www.youtube.com/watch?v=zD4ge-HPIGQ) - YouTube video about common lock patterns.
+* [Common lock patterns cheat sheet](https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources/raw/main/CommonLockPatterns.jpg) - from pinterest/sanketmisal
+* [Android Pattern Lock](https://github.com/delight-im/AndroidPatternLock) - Github repo with pattern text files.
+
 ## IP Resolution Services
 
 * [MaxMind](https://www.maxmind.com/en/home) - useful for resolving IPs. MaxMind is known for offering better geolocation than most other similar services. 
@@ -10,11 +24,8 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 * [UNODC SHERLOC](https://sherloc.unodc.org/cld/en/st/home.html) - Legislation, CNA list and treaties.
 
-## Ransomware Decryption Resources
+## Self Contained and Darknet Resources
 
-* [NO MORE RANSOM](https://www.nomoreransom.org/en/index.html) - Ransomware decryption tools/platform.
-
-## Self contained networks and Darknet resources.
 * [TOR](https://www.torproject.org/) - The Onion Router. ```.onion```
 * [I2P](https://geti2p.net/en/) - The Invisible Internet Project. ```.i2p``` ```.b32.i2p```
 * [Lokinet](https://lokinet.org/) - Anonymous Internet Access. ```.loki```
