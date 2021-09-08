@@ -14,6 +14,15 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 * [NO MORE RANSOM](https://www.nomoreransom.org/en/index.html) - Ransomware decryption tools/platform.
 
+## Self contained networks and Darknet resources.
+* [TOR](https://www.torproject.org/) - The Onion Router. ```.onion```
+* [I2P](https://geti2p.net/en/) - The Invisible Internet Project. ```.i2p``` ```.b32.i2p```
+* [Lokinet](https://lokinet.org/) - Anonymous Internet Access. ```.loki```
+* [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ```.bit``` ```https://zeronet.link/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx```
+* [Retroshare](https://retroshare.cc/) - Retroshare establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail...
+* [OpenBazaar](https://openbazaar.org/) - A FREE ONLINE MARKETPLACE. NO PLATFORM FEES. NO RESTRICTIONS. EARN CRYPTOCURRENCY.
+* [Freenet](https://freenetproject.org/) - Freenet is a peer-to-peer platform for censorship-resistant communication and publishing.
+
 # Contributing to This Project
 
 New to GitHub? No problem! Fork this repo by clicking on the `Fork` button on the top right of this page. 
