@@ -6,6 +6,15 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 * [NO MORE RANSOM](https://www.nomoreransom.org/en/index.html) - Ransomware decryption tools/platform.
 
+## Malware Analysis
+* [Any.run](https://app.any.run/) - Interactive Online Malware Analysis Sandbox - ANY.RUN
+* [Virustotal](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community.
+* [Hybird Analysis](https://www.hybrid-analysis.com/) - Free Automated Malware Analysis Service - powered by Falcon Sandbox.
+* [Cuckoo Sandbox](https://cuckoo.cert.ee/) - Cuckoo Sandbox.
+
+### Phishing
+* [Phishtank](http://phishtank.org/) - PhishTank is a collaborative clearing house for data and information about phishing on the Internet.
+
 ## Mobile Investigations
 
 ### Pin code and pattern lock resources
@@ -33,6 +42,8 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [Retroshare](https://retroshare.cc/) - Retroshare establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail...
 * [OpenBazaar](https://openbazaar.org/) - A FREE ONLINE MARKETPLACE. NO PLATFORM FEES. NO RESTRICTIONS. EARN CRYPTOCURRENCY.
 * [Freenet](https://freenetproject.org/) - Freenet is a peer-to-peer platform for censorship-resistant communication and publishing.
+* [Tails](https://tails.boum.org/) - is a portable operating system that protects against surveillance and censorship. 
+* [Whonix](https://www.whonix.org/) - Software That Can Anonymize Everything You Do Online
 
 # Contributing to This Project
 
