@@ -8,22 +8,22 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 ## Malware Analysis
 * [Any.run](https://app.any.run/) - Interactive Online Malware Analysis Sandbox - ANY.RUN
-* [Virustotal](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community.
-* [Hybird Analysis](https://www.hybrid-analysis.com/) - Free Automated Malware Analysis Service - powered by Falcon Sandbox.
+* [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community.
+* [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free Automated Malware Analysis Service - powered by Falcon Sandbox.
 * [Cuckoo Sandbox](https://cuckoo.cert.ee/) - Cuckoo Sandbox.
 
 ### Phishing
-* [Phishtank](http://phishtank.org/) - PhishTank is a collaborative clearing house for data and information about phishing on the Internet.
+* [PhishTank](http://phishtank.org/) - PhishTank is a collaborative clearing house for data and information about phishing on the Internet.
 
 ## Mobile Investigations
 
-### Pin code and pattern lock resources
+### Pin Code and Pattern Lock Resources
 
 * [All Possible Pattern Locks](https://github.com/ByteRockstar1996/All-Possible-Pattern-Locks) - text files containing all possible pin combinations to 9 chars.
-* [Predictability of Android lock patterns](https://arstechnica.com/information-technology/2015/08/new-data-uncovers-the-surprising-predictability-of-android-lock-patterns/) - Ars Technica artile about Android lock patterns.
+* [Predictability of Android Lock Patterns](https://arstechnica.com/information-technology/2015/08/new-data-uncovers-the-surprising-predictability-of-android-lock-patterns/) - Ars Technica artile about Android lock patterns.
 * [10 Most Common Pattern Locks](https://www.youtube.com/watch?v=zD4ge-HPIGQ) - YouTube video about common lock patterns.
-* [Common lock patterns cheat sheet](https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources/raw/main/CommonLockPatterns.jpg) - from pinterest/sanketmisal
-* [Android Pattern Lock](https://github.com/delight-im/AndroidPatternLock) - Github repo with pattern text files.
+* [Common lock Patterns Cheat Sheet](https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources/raw/main/CommonLockPatterns.jpg) - from Pinterest/sanketmisal
+* [Android Pattern Lock](https://github.com/delight-im/AndroidPatternLock) - GitHub repo with pattern text files.
 
 ## IP Resolution Services
 
@@ -69,7 +69,7 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * Dash address (DASH)
   * **```X[1-9A-HJ-NP-Za-km-z]{33}```**
 
-### Cryptocurrency address examples
+### Cryptocurrency Address Examples
 **The addresses generated below are completely random and are in no way affilated with this repository, do not send money to the addresses listed below!!!**
 
 * Bitcoin (Legacy)
