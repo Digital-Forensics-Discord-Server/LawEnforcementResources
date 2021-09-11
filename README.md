@@ -35,15 +35,59 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 ## Self Contained and Darknet Resources
 
-* [TOR](https://www.torproject.org/) - The Onion Router. ```.onion```
-* [I2P](https://geti2p.net/en/) - The Invisible Internet Project. ```.i2p``` ```.b32.i2p```
-* [Lokinet](https://lokinet.org/) - Anonymous Internet Access. ```.loki```
-* [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ```.bit``` ```https://zeronet.link/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx```
+* [TOR](https://www.torproject.org/) - The Onion Router. 
+  * **```.onion```**
+* [I2P](https://geti2p.net/en/) - The Invisible Internet Project. 
+  * **```.i2p``` ```.b32.i2p```**
+* [Lokinet](https://lokinet.org/) - Anonymous Internet Access.
+  * **```.loki```**
+* [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network.
+  * **```.bit``` ```https://zeronet.link/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx```**
 * [Retroshare](https://retroshare.cc/) - Retroshare establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail...
 * [OpenBazaar](https://openbazaar.org/) - A FREE ONLINE MARKETPLACE. NO PLATFORM FEES. NO RESTRICTIONS. EARN CRYPTOCURRENCY.
 * [Freenet](https://freenetproject.org/) - Freenet is a peer-to-peer platform for censorship-resistant communication and publishing.
 * [Tails](https://tails.boum.org/) - is a portable operating system that protects against surveillance and censorship. 
 * [Whonix](https://www.whonix.org/) - Software That Can Anonymize Everything You Do Online
+
+## Regular expressions
+* Tor hidden services (V2 & V3) 
+  * **```[a-z2-7]{16}.onion|[a-z2-7]{56}.onion```**
+
+### Cryptocurrency regular expressions
+* Bitcoin address (SegWit & Legacy)  (BTC). 
+  *  **```([13]{1}[a-km-zA-HJ-NP-Z1-9]{26,33}|bc1[a-z0-9]{39,59})```**
+* Litcoin address (LTC). 
+  * **```[LM3][a-km-zA-HJ-NP-Z1-9]{26,33}```**
+* Ethereum & Ethereum Classic address (ETH & ETC).
+  * **```0x[a-fA-F0-9]{40}```**
+* Ripple address (XRP).
+  * **```[0-9a-zA-Z]{24,34}```**
+* Dogecoin address (DOGE).
+  * **```D{1}[5-9A-HJ-NP-U]{1}[1-9A-HJ-NP-Za-km-z]{32}```**
+* Monero address (XMR).
+  * **```[48][0-9AB][1-9A-HJ-NP-Za-km-z]{93}```**
+* Dash address (DASH).
+  * **```X[1-9A-HJ-NP-Za-km-z]{33}```**
+
+### Cryptocurrency address examples
+**The addresses generated below are completely random and are in no way affilated with this repository, do not send money to the addresses listed below!!!**
+
+* Bitcoin (Legacy)
+  * **```1F1tAaz5x1HUXrCNLbtMDqcw6o5GNn4xqX```**
+* Bitcoin (SegWit)
+  * **```bc1qj89046x7zv6pm4n00qgqp505nvljnfp6xfznyw```**
+* Litcoin (Legacy)
+  * **```LVtdzELRdQDTa35y1bQPKTSvL3TEv1y5Ut```** 
+* Ethereum & Ethereum Classic
+  * **```0xF25228015a2be633a6a60e9cB4643813DAf28AA0```**
+* Ripple
+  * **```rJiZJRSiseTcKWepsAC6ed6EDbgu2ohPov```**
+* Monero
+  * **```49fpXfThF8bZwuLADG1WZ57vM8oNEuQGaHyBEomSXaaAZhCQqX6j4E9QNz6cqniBrian3zZhu7UpkD85MbrsrjvwMTxqnqe```**
+* Dogecoin
+  * **```DJJ2gcQ6WP59Z7mRuGKaW6sbMpcBvGqfoE```**
+* Dash
+  * **```XcsNx9hSEqDzFZrBrVViiZ8GhYgndBVyEY```** 
 
 # Contributing to This Project
 
