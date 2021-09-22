@@ -52,6 +52,10 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 ## Regular Expressions
 * Tor hidden services (V2 & V3) 
   * **```[a-z2-7]{16}.onion|[a-z2-7]{56}.onion```**
+* I2P hidden service (b32)
+  * **```([a-zA-Z0-9]{52}.b32.i2p)```**
+* I2P hidden service (.i2p)
+  * **```([a-zA-Z0-9]+\.i2p(?<!b32\.i2p))```** 
 
 ### Cryptocurrency Regular Expressions
 * Bitcoin address (SegWit & Legacy)  (BTC)
