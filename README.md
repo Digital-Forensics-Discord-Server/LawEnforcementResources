@@ -2,6 +2,11 @@
 
 Resources provided by the community that can serve to be useful for Law Enforcement worldwide
 
+## Free Training
+
+* [NW3C - Online Training](https://www.nw3c.org/online-training) - Free online training provided by NW3C. Great for padding the CV with training!
+* [Texas A&M TEEX - Cybersecurity](https://teex.org/program/cybersecurity/) - Any class with the FEMA logo (A) is free! Stock up on the certificates of completion!
+
 ## Ransomware Decryption Resources
 
 * [NO MORE RANSOM](https://www.nomoreransom.org/en/index.html) - Ransomware decryption tools/platform.
