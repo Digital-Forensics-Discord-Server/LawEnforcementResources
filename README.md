@@ -38,6 +38,25 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 * [UNODC SHERLOC](https://sherloc.unodc.org/cld/en/st/home.html) - Legislation, CNA list and treaties.
 
+
+# End-to-end encrypted messengers
+| Name | URL | iOS | Android | Windows | Mac | Linux | Web |
+|--|--|--|--|--|--|--|--|
+| BRIAR | https://briarproject.org/ | ✕ | ✓ | ✕ | ✕ | ✕ | ✕ |
+| Element | https://element.io/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Jitsi | https://meet.jit.si/ | ✓ | ✓ | ✕ | ✕ |  ✕ | ✓ |
+| Line | https://line.me/en/ | ✓ | ✓ | ✕ | ✕ |  ✕ | ✕ |
+| Session | https://getsession.org/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
+| Signal | https://www.signal.org/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
+| Silence | https://silence.im/ | ✕ | ✓ | ✕ | ✕ | ✕ | ✕ |
+| Telegram | https://telegram.org/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Threema | https://threema.ch/en/ | ✓ | ✓ | ✕ | ✕ | ✕ | ✓ |
+| Tox | https://tox.chat/ | ✕ | ✓ | ✓ | ✓ | ✓ | ✕ |
+| Viber | https://www.viber.com/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
+| WhatsApp | https://www.whatsapp.com/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Wickr Me | https://wickr.com/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
+| Wire | https://wire.com/en/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+
 ## Self Contained and Darknet Resources
 
 * [TOR](https://www.torproject.org/) - The Onion Router. 
