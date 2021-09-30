@@ -39,7 +39,7 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [UNODC SHERLOC](https://sherloc.unodc.org/cld/en/st/home.html) - Legislation, CNA list and treaties.
 
 
-# End-to-end encrypted messengers
+## End-to-end encrypted messengers
 | Name | URL | iOS | Android | Windows | Mac | Linux | Web |
 |--|--|--|--|--|--|--|--|
 | BRIAR | https://briarproject.org/ | ✕ | ✓ | ✕ | ✕ | ✕ | ✕ |
