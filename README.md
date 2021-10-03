@@ -16,6 +16,7 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community.
 * [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free Automated Malware Analysis Service - powered by Falcon Sandbox.
 * [Cuckoo Sandbox](https://cuckoo.cert.ee/) - Cuckoo Sandbox.
+* [FlareVM](https://github.com/mandiant/flare-vm) - FLARE VM - a fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing, etc.
 
 ### Phishing
 * [PhishTank](http://phishtank.org/) - PhishTank is a collaborative clearing house for data and information about phishing on the Internet.
