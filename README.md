@@ -4,7 +4,7 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 ## Free Training
 
-* [NW3C - Online Training](https://www.nw3c.org/online-training) - Free online training provided by NW3C. Great for padding the CV with training! US LE only. Outside US LE may have to contact NW3C to ask for access, but I can't promise LE outside of the USA can access the training. 
+* [NW3C - Online Training](https://www.nw3c.org/online-training) - Free online training provided by NW3C. Great for padding the CV with training! US LE only. Outside US LE may have to contact NW3C to ask for access, but I can't promise LE outside of the USA can access the training.
 * [Texas A&M TEEX - Cybersecurity](https://teex.org/program/cybersecurity/) - Any class with the FEMA logo (A) is free! Stock up on the certificates of completion!
 
 ## Ransomware Decryption Resources
@@ -19,6 +19,12 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 ### Phishing
 * [PhishTank](http://phishtank.org/) - PhishTank is a collaborative clearing house for data and information about phishing on the Internet.
+
+## Computer Investigations
+
+### Windows Investigations
+
+* [WinDbg Cheat Sheet](https://github.com/N1ght-W0lf/WinDbgCheatSheet) - Command cheat sheet for [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools) usage.
 
 ## Mobile Investigations
 
