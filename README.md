@@ -17,6 +17,9 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free Automated Malware Analysis Service - powered by Falcon Sandbox.
 * [Cuckoo Sandbox](https://cuckoo.cert.ee/) - Cuckoo Sandbox.
 * [FlareVM](https://github.com/mandiant/flare-vm) - FLARE VM - a fully customizable, Windows-based security distribution for malware analysis, incident response, penetration testing, etc.
+* [Joe Sandbox](https://www.joesandbox.com/) - Joe Sandbox
+* [Hatching Triage](https://tria.ge/) - Malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS)
+* [REMnux](https://remnux.org/) - A Linux Toolkit for Malware Analysis
 
 ### Phishing
 * [PhishTank](http://phishtank.org/) - PhishTank is a collaborative clearing house for data and information about phishing on the Internet.
@@ -26,6 +29,9 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 ### Windows Investigations
 
 * [WinDbg Cheat Sheet](https://github.com/N1ght-W0lf/WinDbgCheatSheet) - Command cheat sheet for [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools) usage.
+* [Memory Forensics Cheat Sheet](https://www.sans.org/posters/memory-forensics-cheat-sheet/)
+* [REMnux Usage Tips for Malware Analysis on Linux](https://www.sans.org/posters/remnux-usage-tips-for-malware-analysis-on-linux/)
+* [Malware Analysis and Reverse-Engineering Cheat Sheet](https://www.sans.org/posters/malware-analysis-and-reverse-engineering-cheat-sheet/)
 
 ## Mobile Investigations
 
@@ -40,6 +46,10 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 ## IP Resolution Services
 
 * [MaxMind](https://www.maxmind.com/en/home) - useful for resolving IPs. MaxMind is known for offering better geolocation than most other similar services. 
+
+## DMARC Check Tool
+
+* [DMARC Check Tool](https://mxtoolbox.com/DMARC.aspx)
 
 ## MLA Resources
 
