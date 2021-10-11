@@ -12,6 +12,7 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [NO MORE RANSOM](https://www.nomoreransom.org/en/index.html) - Ransomware decryption tools/platform.
 
 ## Malware Analysis
+
 * [Any.run](https://app.any.run/) - Interactive Online Malware Analysis Sandbox - ANY.RUN
 * [VirusTotal](https://www.virustotal.com/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community.
 * [Hybrid Analysis](https://www.hybrid-analysis.com/) - Free Automated Malware Analysis Service - powered by Falcon Sandbox.
@@ -22,6 +23,7 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [REMnux](https://remnux.org/) - A Linux Toolkit for Malware Analysis
 
 ### Phishing
+
 * [PhishTank](http://phishtank.org/) - PhishTank is a collaborative clearing house for data and information about phishing on the Internet.
 
 ## Computer Investigations
@@ -45,7 +47,7 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 ## IP Resolution Services
 
-* [MaxMind](https://www.maxmind.com/en/home) - useful for resolving IPs. MaxMind is known for offering better geolocation than most other similar services. 
+* [MaxMind](https://www.maxmind.com/en/home) - useful for resolving IPs. MaxMind is known for offering better geolocation than most other similar services.
 
 ## DMARC Check Tool
 
@@ -55,30 +57,30 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 * [UNODC SHERLOC](https://sherloc.unodc.org/cld/en/st/home.html) - Legislation, CNA list and treaties.
 
-
 ## End-to-end encrypted messengers
+
 | Name | URL | iOS | Android | Windows | Mac | Linux | Web |
 |--|--|--|--|--|--|--|--|
-| BRIAR | https://briarproject.org/ | ✕ | ✓ | ✕ | ✕ | ✕ | ✕ |
-| Element | https://element.io/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Jitsi | https://meet.jit.si/ | ✓ | ✓ | ✕ | ✕ |  ✕ | ✓ |
-| Line | https://line.me/en/ | ✓ | ✓ | ✕ | ✕ |  ✕ | ✕ |
-| Session | https://getsession.org/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
-| Signal | https://www.signal.org/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
-| Silence | https://silence.im/ | ✕ | ✓ | ✕ | ✕ | ✕ | ✕ |
-| Telegram | https://telegram.org/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Threema | https://threema.ch/en/ | ✓ | ✓ | ✕ | ✕ | ✕ | ✓ |
-| Tox | https://tox.chat/ | ✕ | ✓ | ✓ | ✓ | ✓ | ✕ |
-| Viber | https://www.viber.com/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
-| WhatsApp | https://www.whatsapp.com/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Wickr Me | https://wickr.com/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
-| Wire | https://wire.com/en/ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| BRIAR | <https://briarproject.org/> | ✕ | ✓ | ✕ | ✕ | ✕ | ✕ |
+| Element | <https://element.io/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Jitsi | <https://meet.jit.si/> | ✓ | ✓ | ✕ | ✕ |  ✕ | ✓ |
+| Line | <https://line.me/en/> | ✓ | ✓ | ✕ | ✕ |  ✕ | ✕ |
+| Session | <https://getsession.org/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
+| Signal | <https://www.signal.org/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
+| Silence | <https://silence.im/> | ✕ | ✓ | ✕ | ✕ | ✕ | ✕ |
+| Telegram | <https://telegram.org/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Threema | <https://threema.ch/en/> | ✓ | ✓ | ✕ | ✕ | ✕ | ✓ |
+| Tox | <https://tox.chat/> | ✕ | ✓ | ✓ | ✓ | ✓ | ✕ |
+| Viber | <https://www.viber.com/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
+| WhatsApp | <https://www.whatsapp.com/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Wickr Me | <https://wickr.com/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
+| Wire | <https://wire.com/en/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 ## Self Contained and Darknet Resources
 
-* [TOR](https://www.torproject.org/) - The Onion Router. 
+* [TOR](https://www.torproject.org/) - The Onion Router.
   * **```.onion```**
-* [I2P](https://geti2p.net/en/) - The Invisible Internet Project. 
+* [I2P](https://geti2p.net/en/) - The Invisible Internet Project.
   * **```.i2p``` ```.b32.i2p```**
 * [Lokinet](https://lokinet.org/) - Anonymous Internet Access.
   * **```.loki```**
@@ -87,20 +89,22 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [Retroshare](https://retroshare.cc/) - Retroshare establish encrypted connections between you and your friends to create a network of computers, and provides various distributed services on top of it: forums, channels, chat, mail...
 * [OpenBazaar](https://openbazaar.org/) - A FREE ONLINE MARKETPLACE. NO PLATFORM FEES. NO RESTRICTIONS. EARN CRYPTOCURRENCY.
 * [Freenet](https://freenetproject.org/) - Freenet is a peer-to-peer platform for censorship-resistant communication and publishing.
-* [Tails](https://tails.boum.org/) - is a portable operating system that protects against surveillance and censorship. 
+* [Tails](https://tails.boum.org/) - is a portable operating system that protects against surveillance and censorship.
 * [Whonix](https://www.whonix.org/) - Software That Can Anonymize Everything You Do Online.
 
 ## Regular Expressions
-* Tor hidden services (V2 & V3) 
+
+* Tor hidden services (V2 & V3)
   * **```[a-z2-7]{16}.onion|[a-z2-7]{56}.onion```**
 * I2P hidden service (b32)
   * **```([a-zA-Z0-9]{52}.b32.i2p)```**
 * I2P hidden service (.i2p)
-  * **```([a-zA-Z0-9]+\.i2p(?<!b32\.i2p))```** 
+  * **```([a-zA-Z0-9]+\.i2p(?<!b32\.i2p))```**
 
 ### Cryptocurrency Regular Expressions
+
 * Bitcoin address (SegWit & Legacy)  (BTC)
-  *  **```([13]{1}[a-km-zA-HJ-NP-Z1-9]{26,33}|bc1[a-z0-9]{39,59})```**
+  * **```([13]{1}[a-km-zA-HJ-NP-Z1-9]{26,33}|bc1[a-z0-9]{39,59})```**
 * Litecoin address (LTC)
   * **```[LM3][a-km-zA-HJ-NP-Z1-9]{26,33}```**
 * Ethereum & Ethereum Classic address (ETH & ETC)
@@ -115,6 +119,7 @@ Resources provided by the community that can serve to be useful for Law Enforcem
   * **```X[1-9A-HJ-NP-Za-km-z]{33}```**
 
 ### Cryptocurrency Address Examples
+
 **The addresses generated below are completely random and are in no way affilated with this repository, do not send money to the addresses listed below!!!**
 
 * Bitcoin (Legacy)
@@ -122,7 +127,7 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * Bitcoin (SegWit)
   * **```bc1qj89046x7zv6pm4n00qgqp505nvljnfp6xfznyw```**
 * Litecoin (Legacy)
-  * **```LVtdzELRdQDTa35y1bQPKTSvL3TEv1y5Ut```** 
+  * **```LVtdzELRdQDTa35y1bQPKTSvL3TEv1y5Ut```**
 * Ethereum & Ethereum Classic
   * **```0xF25228015a2be633a6a60e9cB4643813DAf28AA0```**
 * Ripple
@@ -132,15 +137,15 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * DogeCoin
   * **```DJJ2gcQ6WP59Z7mRuGKaW6sbMpcBvGqfoE```**
 * Dash
-  * **```XcsNx9hSEqDzFZrBrVViiZ8GhYgndBVyEY```** 
+  * **```XcsNx9hSEqDzFZrBrVViiZ8GhYgndBVyEY```**
 
-# Contributing to This Project
+## Contributing to This Project
 
-New to GitHub? No problem! Fork this repo by clicking on the `Fork` button on the top right of this page. 
+New to GitHub? No problem! Fork this repo by clicking on the `Fork` button on the top right of this page.
 
 ![image](https://user-images.githubusercontent.com/36825567/131013036-a7874694-3256-4e0e-87e8-13dc1d402b31.png)
 
-After that, you'll be working off of your Fork of this repository, which is effectively a snapshop in time. 
+After that, you'll be working off of your Fork of this repository, which is effectively a snapshop in time.
 
 ![image](https://user-images.githubusercontent.com/36825567/131013270-7c991c8d-d1b9-4f84-8c3d-9ef20a8d86e4.png)
 
@@ -150,4 +155,4 @@ As time goes on, this repository will evolve and your Fork will be left behind i
 
 Above is an example of Fetch Upstream combined with doing a Pull Request, which is what you should do when you have something new to the repo you'd like to add to the main repo.
 
-New to Markdown? No problem! Use [StackEdit](https://stackedit.io/app#) to write in Markdown with live preview. Additionally, GitHub has a useful guide for Markdown syntax [here](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). 
+New to Markdown? No problem! Use [StackEdit](https://stackedit.io/app#) to write in Markdown with live preview. Additionally, GitHub has a useful guide for Markdown syntax [here](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
