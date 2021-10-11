@@ -7,9 +7,10 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [NW3C - Online Training](https://www.nw3c.org/online-training) - Free online training provided by NW3C. Great for padding the CV with training! US LE only. Outside US LE may have to contact NW3C to ask for access, but I can't promise LE outside of the USA can access the training.
 * [Texas A&M TEEX - Cybersecurity](https://teex.org/program/cybersecurity/) - Any class with the FEMA logo (A) is free! Stock up on the certificates of completion!
 
-## Ransomware Decryption Resources
+## Ransomware Identification / Decryption Resources
 
 * [NO MORE RANSOM](https://www.nomoreransom.org/en/index.html) - Ransomware decryption tools/platform.
+* [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware identification platform.
 
 ## Malware Analysis
 
@@ -22,6 +23,11 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [Hatching Triage](https://tria.ge/) - Malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS)
 * [REMnux](https://remnux.org/) - A Linux Toolkit for Malware Analysis
 
+## Reverse Engineering
+
+* [UNPACME](https://www.unpac.me/) - An automated malware unpacking service from OpenAnalysis
+* [disassembler.io](https://onlinedisassembler.com/)
+
 ### Phishing
 
 * [PhishTank](http://phishtank.org/) - PhishTank is a collaborative clearing house for data and information about phishing on the Internet.
@@ -32,26 +38,36 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 * [WinDbg Cheat Sheet](https://github.com/N1ght-W0lf/WinDbgCheatSheet) - Command cheat sheet for [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools) usage.
 * [Memory Forensics Cheat Sheet](https://www.sans.org/posters/memory-forensics-cheat-sheet/)
-* [REMnux Usage Tips for Malware Analysis on Linux](https://www.sans.org/posters/remnux-usage-tips-for-malware-analysis-on-linux/)
-* [Malware Analysis and Reverse-Engineering Cheat Sheet](https://www.sans.org/posters/malware-analysis-and-reverse-engineering-cheat-sheet/)
+* [REMnux Usage Tips for Malware Analysis on Linux](https://www.sans.org/posters/remnux-usage-tips-for-malware-analysis-on-linux/) - Useful for knowing the commands and tools to use when analyzing malware using the REMnux VM.
+* [Malware Analysis and Reverse-Engineering Cheat Sheet](https://www.sans.org/posters/malware-analysis-and-reverse-engineering-cheat-sheet/) - Tips for analyzing and reverse-engineering malware.
+
+### Linux Investigations
+
+* [Linux Compromise Assessment Command Cheat Sheet](https://www.sandflysecurity.com/linux-compromise-detection-command-cheatsheet.pdf)
+* [Linux Shell Survival Guide](https://www.sans.org/posters/linux-shell-survival-guide/) - Covers the more useful Linux shell primitives and core utilities.
+* [Intrusion Discovery Cheat Sheet for Linux](https://www.sans.org/posters/intrusion-discovery-cheat-sheet-for-linux/) - Useful for finding indications of a system compromise.
 
 ## Mobile Investigations
 
 ### Pin Code and Pattern Lock Resources
 
-* [All Possible Pattern Locks](https://github.com/ByteRockstar1996/All-Possible-Pattern-Locks) - text files containing all possible pin combinations to 9 chars.
+* [All Possible Pattern Locks](https://github.com/ByteRockstar1996/All-Possible-Pattern-Locks) - Text files containing all possible pin combinations to 9 chars.
 * [Predictability of Android Lock Patterns](https://arstechnica.com/information-technology/2015/08/new-data-uncovers-the-surprising-predictability-of-android-lock-patterns/) - Ars Technica artile about Android lock patterns.
 * [10 Most Common Pattern Locks](https://www.youtube.com/watch?v=zD4ge-HPIGQ) - YouTube video about common lock patterns.
-* [Common lock Patterns Cheat Sheet](https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources/raw/main/CommonLockPatterns.jpg) - from Pinterest/sanketmisal
+* [Common lock Patterns Cheat Sheet](https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources/raw/main/CommonLockPatterns.jpg) - From Pinterest/sanketmisal
 * [Android Pattern Lock](https://github.com/delight-im/AndroidPatternLock) - GitHub repo with pattern text files.
 
 ## IP Resolution Services
 
-* [MaxMind](https://www.maxmind.com/en/home) - useful for resolving IPs. MaxMind is known for offering better geolocation than most other similar services.
+* [MaxMind](https://www.maxmind.com/en/home) - Useful for resolving IPs. MaxMind is known for offering better geolocation than most other similar services.
 
 ## DMARC Check Tool
 
-* [DMARC Check Tool](https://mxtoolbox.com/DMARC.aspx)
+* [DMARC Check Tool](https://mxtoolbox.com/DMARC.aspx) - Diagnostic tool that will parse the DMARC Record for the queried domain name, display the DMARC Record, and run a series of diagnostic checks against the record
+
+## Email Analysis
+
+* [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx) - Will make email headers human readable by parsing them according to RFC 822
 
 ## MLA Resources
 
