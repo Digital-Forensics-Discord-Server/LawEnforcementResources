@@ -7,6 +7,13 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [NW3C - Online Training](https://www.nw3c.org/online-training) - Free online training provided by NW3C. Great for padding the CV with training! US LE only. Outside US LE may have to contact NW3C to ask for access, but I can't promise LE outside of the USA can access the training.
 * [Texas A&M TEEX - Cybersecurity](https://teex.org/program/cybersecurity/) - Any class with the FEMA logo (A) is free! Stock up on the certificates of completion!
 
+## Guides / Publications / Books
+
+* [NIST - Computer Security Incident Handling Guide](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
+* [NIST - Guidelines on Mobile Device Forensics](https://csrc.nist.gov/publications/detail/sp/800-101/rev-1/final)
+* [NIST - Guide to Integrating Forensic Techniques into Incident Response](https://csrc.nist.gov/publications/detail/sp/800-86/final)
+* [NIST - Guide to Malware Incident Prevention and Handling for Desktops and Laptops](https://csrc.nist.gov/publications/detail/sp/800-83/rev-1/final)
+
 ## Ransomware Identification / Decryption Resources
 
 * [NO MORE RANSOM](https://www.nomoreransom.org/en/index.html) - Ransomware decryption tools/platform.
@@ -40,12 +47,19 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [Memory Forensics Cheat Sheet](https://www.sans.org/posters/memory-forensics-cheat-sheet/)
 * [REMnux Usage Tips for Malware Analysis on Linux](https://www.sans.org/posters/remnux-usage-tips-for-malware-analysis-on-linux/) - Useful for knowing the commands and tools to use when analyzing malware using the REMnux VM.
 * [Malware Analysis and Reverse-Engineering Cheat Sheet](https://www.sans.org/posters/malware-analysis-and-reverse-engineering-cheat-sheet/) - Tips for analyzing and reverse-engineering malware.
+* [Windows Security Log Events Encyclopedia](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/)
 
 ### Linux Investigations
 
 * [Linux Compromise Assessment Command Cheat Sheet](https://www.sandflysecurity.com/linux-compromise-detection-command-cheatsheet.pdf)
 * [Linux Shell Survival Guide](https://www.sans.org/posters/linux-shell-survival-guide/) - Covers the more useful Linux shell primitives and core utilities.
 * [Intrusion Discovery Cheat Sheet for Linux](https://www.sans.org/posters/intrusion-discovery-cheat-sheet-for-linux/) - Useful for finding indications of a system compromise.
+
+### Mac Investigations
+
+* [mac4n6](http://www.mac4n6.com/resources) - Mac forensics resources
+* [Mac OS X Forensic Artifact Locations](https://www.champlain.edu/Documents/LCDI/Report_Mac%20Forensics.pdf)
+* [SANS FOR518 - Mac & iOS HFS + Filesystem Reference Sheet](https://assets.contentstack.io/v3/assets/blt36c2e63521272fdc/blt61c336e02577e733/5eb0940e248a28605479ccf0/FOR518_APFS_CheatSheet_012020.pdf)
 
 ## Mobile Investigations
 
@@ -61,13 +75,10 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 * [MaxMind](https://www.maxmind.com/en/home) - Useful for resolving IPs. MaxMind is known for offering better geolocation than most other similar services.
 
-## DMARC Check Tool
-
-* [DMARC Check Tool](https://mxtoolbox.com/DMARC.aspx) - Diagnostic tool that will parse the DMARC Record for the queried domain name, display the DMARC Record, and run a series of diagnostic checks against the record
-
 ## Email Analysis
 
 * [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx) - Will make email headers human readable by parsing them according to RFC 822
+* [DMARC Check Tool](https://mxtoolbox.com/DMARC.aspx) - Diagnostic tool that will parse the DMARC Record for the queried domain name, display the DMARC Record, and run a series of diagnostic checks against the record
 
 ## MLA Resources
 
