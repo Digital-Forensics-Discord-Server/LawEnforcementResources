@@ -94,13 +94,13 @@ Icon | Name | URL | iOS | Android | Windows | Mac | Linux | Web | Wallet
 |![Line Logo](/messenger_icons/line.png)| Line | <https://line.me/en/> | ✓ | ✓ | ✕ | ✕ |  ✕ | ✕ | ✓
 |![Session Logo](/messenger_icons/session.png)| Session | <https://getsession.org/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ | ✕
 |![Signal Logo](/messenger_icons/signal.svg)| Signal | <https://www.signal.org/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ | ✓
-|![Silence Logo](/messenger_icons/silence.svg)| Silence | <https://silence.im/> | ✕ | ✓ | ✕ | ✕ | ✕ | ✕ | 
+|![Silence Logo](/messenger_icons/silence.png)| Silence | <https://silence.im/> | ✕ | ✓ | ✕ | ✕ | ✕ | ✕ | 
 |![Telegram Logo](/messenger_icons/telegram.svg)| Telegram | <https://telegram.org/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✕
 |![Threema Logo](/messenger_icons/threema.png)| Threema | <https://threema.ch/en/> | ✓ | ✓ | ✕ | ✕ | ✕ | ✓ | ✕
 |![Tox Logo](/messenger_icons/tox.svg)| Tox | <https://tox.chat/> | ✕ | ✓ | ✓ | ✓ | ✓ | ✕ | ✕
-|![Viber Logo](/messenger_icons/Viber.svg)| Viber | <https://www.viber.com/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ | ✕
+|![Viber Logo](/messenger_icons/viber.svg)| Viber | <https://www.viber.com/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ | ✕
 |![WhatsApp Logo](/messenger_icons/whatsapp.svg)| WhatsApp | <https://www.whatsapp.com/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✕
-|![Wickr Logo](/messenger_icons/wickr.svg)| Wickr Me | <https://wickr.com/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ | ✕
+|![Wickr Logo](/messenger_icons/wickr.png)| Wickr Me | <https://wickr.com/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ | ✕
 |![Wire Logo](/messenger_icons/wire.png)| Wire | <https://wire.com/en/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✕
 
 ## Self Contained and Darknet Resources
