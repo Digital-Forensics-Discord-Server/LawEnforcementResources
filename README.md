@@ -182,4 +182,8 @@ As time goes on, this repository will evolve and your Fork will be left behind i
 
 Above is an example of Fetch Upstream combined with doing a Pull Request, which is what you should do when you have something new to the repo you'd like to add to the main repo.
 
-New to Markdown? No problem! Use [StackEdit](https://stackedit.io/app#) to write in Markdown with live preview. Additionally, GitHub has a useful guide for Markdown syntax [here](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### New to Markdown? No problem! 
+
+* Use [StackEdit](https://stackedit.io/app#) to write in Markdown with live preview. 
+* Additionally, GitHub has a useful guide for Markdown syntax [here](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+* Need help with making/using tables in Markdown? Check out this [site](https://www.tablesgenerator.com/markdown_tables)!
