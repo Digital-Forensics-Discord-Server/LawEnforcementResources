@@ -168,7 +168,9 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 ## Contributing to This Project
 
-New to GitHub? No problem! Fork this repo by clicking on the `Fork` button on the top right of this page.
+New to GitHub? No problem! [Here](https://github.com/Digital-Forensics-Discord-Server/GitHubLearningPlayground) is a repo that you can test the below instructions on until you're comfortable to contribute to this repo!
+
+Fork this repo by clicking on the `Fork` button on the top right of this page.
 
 ![image](https://user-images.githubusercontent.com/36825567/131013036-a7874694-3256-4e0e-87e8-13dc1d402b31.png)
 
