@@ -41,6 +41,12 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 ## Computer Investigations
 
+### Decryption
+
+* [Password Cracking - Mimicatz NTLM Hash Extraction](https://youtu.be/b5lc5fSPE_E) - How to extract the NTLM hash used by Windows for use in password cracking software.
+* [Password Cracking - Hashcat Brute Force](https://youtu.be/t1vXrNrSWh4) - How to use the brute force attack mode of Hashcat and an explination of what brute force is doing.
+* [Password Cracking - Hashcat Dictionary + Rules](https://youtu.be/5NQogp8eZAg) - How to use Hashcat's dictionary attack mode with a rule set.
+
 ### Windows Investigations
 
 * [WinDbg Cheat Sheet](https://github.com/N1ght-W0lf/WinDbgCheatSheet) - Command cheat sheet for [WinDbg](https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/debugger-download-tools) usage.
