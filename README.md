@@ -3,8 +3,8 @@
 Resources provided by the community that can serve to be useful for Law Enforcement worldwide
 
 [Free Training](#free-traing)  
-[Guides, Publications and Books](#guides-/-publications-/-books)  
-[Ransomeware Identification / Decryption Resources](#ransomware-identification-/-decryption-resources)  
+[Guides, Publications and Books](#guides,-publications-and-books)  
+[Ransomeware Identification and  Decryption Resources](#ransomware-identification-and-decryption-resources)  
 [Malware Analysis](#malware-analysis)  
 
 ## Free Training
@@ -12,14 +12,14 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [NW3C - Online Training](https://www.nw3c.org/online-training) - Free online training provided by NW3C. Great for padding the CV with training! US LE only. Outside US LE may have to contact NW3C to ask for access, but I can't promise LE outside of the USA can access the training.
 * [Texas A&M TEEX - Cybersecurity](https://teex.org/program/cybersecurity/) - Any class with the FEMA logo (A) is free! Stock up on the certificates of completion!
 
-## Guides / Publications / Books
+## Guides,  Publications and Books
 
 * [NIST - Computer Security Incident Handling Guide](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
 * [NIST - Guidelines on Mobile Device Forensics](https://csrc.nist.gov/publications/detail/sp/800-101/rev-1/final)
 * [NIST - Guide to Integrating Forensic Techniques into Incident Response](https://csrc.nist.gov/publications/detail/sp/800-86/final)
 * [NIST - Guide to Malware Incident Prevention and Handling for Desktops and Laptops](https://csrc.nist.gov/publications/detail/sp/800-83/rev-1/final)
 
-## Ransomware Identification / Decryption Resources
+## Ransomware Identification and Decryption Resources
 
 * [NO MORE RANSOM](https://www.nomoreransom.org/en/index.html) - Ransomware decryption tools/platform.
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware identification platform.
