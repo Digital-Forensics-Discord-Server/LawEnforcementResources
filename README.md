@@ -8,7 +8,7 @@ Resources provided by the community that can serve to be useful for Law Enforcem
  1. [Malware Analysis](#malware-analysis)   
  1. [Reverse Engineering](#reverse-engineering)  
  1. [Phishing](#phishing)  
- 1. [Computer Investitations](#computer-investigations)  
+ 1. [Computer Investigations](#computer-investigations)  
     1. [Decryption](#decryption)  
     2. [Windows Investigations](#windows-investigations)  
     3. [Linux Investigations](#linux-investigations)  
