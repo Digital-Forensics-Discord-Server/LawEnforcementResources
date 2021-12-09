@@ -2,7 +2,7 @@
 
 Resources provided by the community that can serve to be useful for Law Enforcement worldwide
 
-[Free Training](#-free traing-)
+[Free Training](#free-traing)
 
 ## Free Training
 
