@@ -2,19 +2,41 @@
 
 Resources provided by the community that can serve to be useful for Law Enforcement worldwide
 
+ 1. [Free Training](#free-training)  
+ 1. [Guides, Publications and Books](#guides--publications-and-books)  
+ 1. [Ransomeware Identification and  Decryption Resources](#ransomware-identification-and-decryption-resources)  
+ 1. [Malware Analysis](#malware-analysis)   
+ 1. [Reverse Engineering](#reverse-engineering)  
+ 1. [Phishing](#phishing)  
+ 1. [Computer Investitations](#computer-investigations)  
+    1. [Decryption](#decryption)  
+    2. [Windows Investigations](#windows-investigations)  
+    3. [Linux Investigations](#linux-investigations)  
+    4. [Mac Investigations](#mac-investigations)  
+ 1. [Mobile Investigations](#mobile-investigations)  
+    1. [Pin Code and Pattern Lock Resources](#pin-code-and-pattern-lock-resources)   
+ 1. [IP Resolution Services](#ip-resolution-services)   
+ 1. [Email Analysis](#email-analysis)
+ 2. [MLA Resources](#mla-resources)  
+ 3. [End-to-end encrypted messengers](#end-to-end-encrypted-messengers)  
+ 4. [Self Contained and Darknet Resources](#self-contained-and-darknet-resources)  
+ 5. [Regular Expressions](#regular-expressions)
+ 6. [Contributing to this Project](#contributing-to-this-project)  
+
+
 ## Free Training
 
 * [NW3C - Online Training](https://www.nw3c.org/online-training) - Free online training provided by NW3C. Great for padding the CV with training! US LE only. Outside US LE may have to contact NW3C to ask for access, but I can't promise LE outside of the USA can access the training.
 * [Texas A&M TEEX - Cybersecurity](https://teex.org/program/cybersecurity/) - Any class with the FEMA logo (A) is free! Stock up on the certificates of completion!
 
-## Guides / Publications / Books
+## Guides,  Publications and Books
 
 * [NIST - Computer Security Incident Handling Guide](https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final)
 * [NIST - Guidelines on Mobile Device Forensics](https://csrc.nist.gov/publications/detail/sp/800-101/rev-1/final)
 * [NIST - Guide to Integrating Forensic Techniques into Incident Response](https://csrc.nist.gov/publications/detail/sp/800-86/final)
 * [NIST - Guide to Malware Incident Prevention and Handling for Desktops and Laptops](https://csrc.nist.gov/publications/detail/sp/800-83/rev-1/final)
 
-## Ransomware Identification / Decryption Resources
+## Ransomware Identification and Decryption Resources
 
 * [NO MORE RANSOM](https://www.nomoreransom.org/en/index.html) - Ransomware decryption tools/platform.
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware identification platform.
