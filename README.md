@@ -5,7 +5,13 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 [Free Training](#free-traing)  
 [Guides, Publications and Books](#guides,-publications-and-books)  
 [Ransomeware Identification and  Decryption Resources](#ransomware-identification-and-decryption-resources)  
-[Malware Analysis](#malware-analysis)  
+[Malware Analysis](#malware-analysis)   
+[Reverse Engineering](#reverse-engineering)  
+[Phishing](#phishing)  
+
+Computer Investitations   
+[Decryption](#decryption)
+
 
 ## Free Training
 
