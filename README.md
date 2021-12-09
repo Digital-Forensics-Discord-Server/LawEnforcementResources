@@ -2,6 +2,8 @@
 
 Resources provided by the community that can serve to be useful for Law Enforcement worldwide
 
+[Free Training](## Free Traing)
+
 ## Free Training
 
 * [NW3C - Online Training](https://www.nw3c.org/online-training) - Free online training provided by NW3C. Great for padding the CV with training! US LE only. Outside US LE may have to contact NW3C to ask for access, but I can't promise LE outside of the USA can access the training.
