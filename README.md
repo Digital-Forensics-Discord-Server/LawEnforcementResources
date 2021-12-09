@@ -2,15 +2,26 @@
 
 Resources provided by the community that can serve to be useful for Law Enforcement worldwide
 
-[Free Training](#free-traing)  
-[Guides, Publications and Books](#guides,-publications-and-books)  
-[Ransomeware Identification and  Decryption Resources](#ransomware-identification-and-decryption-resources)  
-[Malware Analysis](#malware-analysis)   
-[Reverse Engineering](#reverse-engineering)  
-[Phishing](#phishing)  
-
-Computer Investitations   
-[Decryption](#decryption)
+ 1. [Free Training](#free-traing)  
+ 1. [Guides, Publications and Books](#guides,-publications-and-books)  
+ 1. [Ransomeware Identification and  Decryption Resources](#ransomware-identification-and-decryption-resources)  
+ 1. [Malware Analysis](#malware-analysis)   
+ 1. [Reverse Engineering](#reverse-engineering)  
+ 1. [Phishing](#phishing)  
+ 1. [Computer Investitations](#computer-investigations)  
+    1. [Decryption](#decryption)  
+    2. [Windows Investigations](#windows-investigations)  
+    3. [Linux Investigations](#linux-investigations)  
+    4. [Mac Investigations](#mac-investigations)  
+ 1. [Mobile Investigations](#mobile-investigations)  
+    1. [Pin Code and Pattern Lock Resources](#pin-code-and-pattern-lock-resources)   
+ 1. [IP Resolution Services](#ip-resolution-services)   
+ 1. [Email Analysis](#email-analysis)
+ 2. [MLA Resources](#mla-resources)  
+ 3. [End-to-end encrypted messengers](#end-to-end-encrypted-messengers)  
+ 4. [Self Contained Darknet Resources](#self-contained-darknet-resources)  
+ 5. [Regular Expressions](#regular-expressions)
+ 6. [Contributing to this Project](#contributing-to-this-project)  
 
 
 ## Free Training
