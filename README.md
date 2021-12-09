@@ -2,8 +2,8 @@
 
 Resources provided by the community that can serve to be useful for Law Enforcement worldwide
 
- 1. [Free Training](#free-traing)  
- 1. [Guides, Publications and Books](#guides,-publications-and-books)  
+ 1. [Free Training](#free-training)  
+ 1. [Guides, Publications and Books](#guides--publications-and-books)  
  1. [Ransomeware Identification and  Decryption Resources](#ransomware-identification-and-decryption-resources)  
  1. [Malware Analysis](#malware-analysis)   
  1. [Reverse Engineering](#reverse-engineering)  
@@ -19,7 +19,7 @@ Resources provided by the community that can serve to be useful for Law Enforcem
  1. [Email Analysis](#email-analysis)
  2. [MLA Resources](#mla-resources)  
  3. [End-to-end encrypted messengers](#end-to-end-encrypted-messengers)  
- 4. [Self Contained Darknet Resources](#self-contained-darknet-resources)  
+ 4. [Self Contained and Darknet Resources](#self-contained-and-darknet-resources)  
  5. [Regular Expressions](#regular-expressions)
  6. [Contributing to this Project](#contributing-to-this-project)  
 
