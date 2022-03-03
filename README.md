@@ -14,7 +14,7 @@ Resources provided by the community that can serve to be useful for Law Enforcem
     3. [Linux Investigations](#linux-investigations)  
     4. [Mac Investigations](#mac-investigations)  
  1. [Mobile Investigations](#mobile-investigations)  
-    1. [Pin Code and Pattern Lock Resources](#pin-code-and-pattern-lock-resources)   
+    1. [Pin Code, Pattern Lock, and Password Resources](#pin-code-pattern-lock-password-resources)   
  1. [IP Resolution Services](#ip-resolution-services)   
  1. [Email Analysis](#email-analysis)
  2. [MLA Resources](#mla-resources)  
@@ -91,13 +91,14 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 ## Mobile Investigations
 
-### Pin Code and Pattern Lock Resources
+### Pin Code, Pattern Lock, and Android Password Resources
 
 * [All Possible Pattern Locks](https://github.com/ByteRockstar1996/All-Possible-Pattern-Locks) - Text files containing all possible pin combinations to 9 chars.
 * [Predictability of Android Lock Patterns](https://arstechnica.com/information-technology/2015/08/new-data-uncovers-the-surprising-predictability-of-android-lock-patterns/) - Ars Technica artile about Android lock patterns.
 * [10 Most Common Pattern Locks](https://www.youtube.com/watch?v=zD4ge-HPIGQ) - YouTube video about common lock patterns.
 * [Common lock Patterns Cheat Sheet](https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources/raw/main/CommonLockPatterns.jpg) - From Pinterest/sanketmisal
 * [Android Pattern Lock](https://github.com/delight-im/AndroidPatternLock) - GitHub repo with pattern text files.
+* [Android Password List](https://github.com/FullTang/AndroidPWList) - Wordlist for use on DF tools that bruteforce Android passwords.
 
 ## IP Resolution Services
 
