@@ -132,6 +132,7 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 | WhatsApp | <https://www.whatsapp.com/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Wickr Me | <https://wickr.com/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
 | Wire | <https://wire.com/en/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Keybase | <https://keybase.io/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 
 ## Self Contained and Darknet Resources
 
