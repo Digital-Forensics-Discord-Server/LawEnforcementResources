@@ -40,6 +40,8 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 * [NO MORE RANSOM](https://www.nomoreransom.org/en/index.html) - Ransomware decryption tools/platform.
 * [ID Ransomware](https://id-ransomware.malwarehunterteam.com/) - Ransomware identification platform.
+* [Trend Micro Ransomware](https://helpcenter.trendmicro.com/en-us/article/tmka-21656) - Ransomware identification tool specializing in removing ransomware types that perform screen locking.
+* [Bitdefender Ransomware](https://www.bitdefender.com/blog/labs/bitdefender-ransomware-recognition-tool/) - Ransomware recognition tool.
 
 ## Malware Analysis
 
