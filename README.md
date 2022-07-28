@@ -53,6 +53,8 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * [Joe Sandbox](https://www.joesandbox.com/) - Joe Sandbox
 * [Hatching Triage](https://tria.ge/) - Malware analysis sandbox designed for cross-platform support (Windows, Android, Linux, and macOS)
 * [REMnux](https://remnux.org/) - A Linux Toolkit for Malware Analysis
+* [Reverse.it](https://hybrid-analysis.com/) - Web-based malware analysis tool - powered by CrowdStrike Falcon.
+* [Limon](https://github.com/monnappa22/Limon) - Malware Analysis Sandbox for analyzing Linux malwares.
 
 ## Reverse Engineering
 
