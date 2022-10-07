@@ -98,6 +98,11 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 ### Pin Code, Pattern Lock, and Android Password Resources
 
 * [All Possible Pattern Locks](https://github.com/ByteRockstar1996/All-Possible-Pattern-Locks) - Text files containing all possible pin combinations to 9 chars.
+* [All Possible 4-Digit PIN codes](https://github.com/FullTang/4-DigitPINs) - Text file containing all possible 4-digit PIN combinations.
+* [All Possible 5-Digit PIN codes](https://github.com/FullTang/5-DigitPINs) - Text file containing all possible 5-digit PIN combinations.
+* [All Possible 6-Digit PIN codes](https://github.com/FullTang/6-DigitPINs) - Text file containing all possible 6-digit PIN combinations.
+* [All Possible 7-Digit PIN codes](https://github.com/FullTang/7-DigitPINs) - Text file containing all possible 7-digit PIN combinations.
+* [All Possible 8-Digit PIN codes](https://github.com/FullTang/8-DigitPINs) - Text file containing all possible 8-digit PIN combinations.
 * [Predictability of Android Lock Patterns](https://arstechnica.com/information-technology/2015/08/new-data-uncovers-the-surprising-predictability-of-android-lock-patterns/) - Ars Technica artile about Android lock patterns.
 * [10 Most Common Pattern Locks](https://www.youtube.com/watch?v=zD4ge-HPIGQ) - YouTube video about common lock patterns.
 * [Common lock Patterns Cheat Sheet](https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources/raw/main/CommonLockPatterns.jpg) - From Pinterest/sanketmisal
