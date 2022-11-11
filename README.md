@@ -2,27 +2,27 @@
 
 Resources provided by the community that can serve to be useful for Law Enforcement worldwide
 
- 1. [Free Training](#free-training)  
- 1. [Guides, Publications and Books](#guides--publications-and-books)  
- 1. [Ransomeware Identification and  Decryption Resources](#ransomware-identification-and-decryption-resources)  
- 1. [Malware Analysis](#malware-analysis)   
- 1. [Reverse Engineering](#reverse-engineering)  
- 1. [Phishing](#phishing)  
- 1. [Computer Investigations](#computer-investigations)  
-    1. [Decryption](#decryption)  
-    2. [Windows Investigations](#windows-investigations)  
-    3. [Linux Investigations](#linux-investigations)  
-    4. [Mac Investigations](#mac-investigations)  
- 1. [Mobile Investigations](#mobile-investigations)  
-    1. [Pin Code, Pattern Lock, and Password Resources](#pin-code-pattern-lock-password-resources)   
- 1. [IP Resolution Services](#ip-resolution-services)   
+ 1. [Free Training](#free-training)
+ 1. [Guides, Publications and Books](#guides--publications-and-books)
+ 1. [Ransomeware Identification and  Decryption Resources](#ransomware-identification-and-decryption-resources)
+ 1. [Malware Analysis](#malware-analysis)
+ 1. [Reverse Engineering](#reverse-engineering)
+ 1. [Phishing](#phishing)
+ 1. [Computer Investigations](#computer-investigations)
+    1. [Decryption](#decryption)
+    2. [Windows Investigations](#windows-investigations)
+    3. [Linux Investigations](#linux-investigations)
+    4. [Mac Investigations](#mac-investigations)
+ 1. [Mobile Investigations](#mobile-investigations)
+    1. [Pin Code, Pattern Lock, and Password Resources](#pin-code-pattern-lock-password-resources)
+ 1. [IP Resolution Services](#ip-resolution-services)
  1. [Email Analysis](#email-analysis)
- 2. [MLA Resources](#mla-resources)  
- 3. [End-to-end encrypted messengers](#end-to-end-encrypted-messengers)  
- 4. [Self Contained and Darknet Resources](#self-contained-and-darknet-resources)  
+ 2. [MLA Resources](#mla-resources)
+ 3. [End-to-end encrypted messengers](#end-to-end-encrypted-messengers)
+ 4. [Self Contained and Darknet Resources](#self-contained-and-darknet-resources)
  5. [Regular Expressions](#regular-expressions)
- 6. [Contributing to this Project](#contributing-to-this-project)  
-
+ 6. [Android Resources](#android-resources)
+ 7. [Contributing to this Project](#contributing-to-this-project)
 
 ## Free Training
 
@@ -131,21 +131,21 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 | Name | URL | iOS | Android | Windows | Mac | Linux | Web |
 |--|--|--|--|--|--|--|--|
-| BRIAR | <https://briarproject.org/> | ✕ | ✓ | ✕ | ✕ | ✕ | ✕ |
-| Element | <https://element.io/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Jitsi | <https://meet.jit.si/> | ✓ | ✓ | ✕ | ✕ |  ✕ | ✓ |
-| Line | <https://line.me/en/> | ✓ | ✓ | ✕ | ✕ |  ✕ | ✕ |
-| Session | <https://getsession.org/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
-| Signal | <https://www.signal.org/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
-| Silence | <https://silence.im/> | ✕ | ✓ | ✕ | ✕ | ✕ | ✕ |
-| Telegram | <https://telegram.org/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Threema | <https://threema.ch/en/> | ✓ | ✓ | ✕ | ✕ | ✕ | ✓ |
-| Tox | <https://tox.chat/> | ✕ | ✓ | ✓ | ✓ | ✓ | ✕ |
-| Viber | <https://www.viber.com/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
-| WhatsApp | <https://www.whatsapp.com/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Wickr Me | <https://wickr.com/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✕ |
-| Wire | <https://wire.com/en/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Keybase | <https://keybase.io/> | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| BRIAR | <https://briarproject.org/> | ? | ? | ? | ? | ? | ? |
+| Element | <https://element.io/> | ? | ? | ? | ? | ? | ? |
+| Jitsi | <https://meet.jit.si/> | ? | ? | ? | ? |  ? | ? |
+| Line | <https://line.me/en/> | ? | ? | ? | ? |  ? | ? |
+| Session | <https://getsession.org/> | ? | ? | ? | ? | ? | ? |
+| Signal | <https://www.signal.org/> | ? | ? | ? | ? | ? | ? |
+| Silence | <https://silence.im/> | ? | ? | ? | ? | ? | ? |
+| Telegram | <https://telegram.org/> | ? | ? | ? | ? | ? | ? |
+| Threema | <https://threema.ch/en/> | ? | ? | ? | ? | ? | ? |
+| Tox | <https://tox.chat/> | ? | ? | ? | ? | ? | ? |
+| Viber | <https://www.viber.com/> | ? | ? | ? | ? | ? | ? |
+| WhatsApp | <https://www.whatsapp.com/> | ? | ? | ? | ? | ? | ? |
+| Wickr Me | <https://wickr.com/> | ? | ? | ? | ? | ? | ? |
+| Wire | <https://wire.com/en/> | ? | ? | ? | ? | ? | ? |
+| Keybase | <https://keybase.io/> | ? | ? | ? | ? | ? | ? |
 
 ## Self Contained and Darknet Resources
 
@@ -210,6 +210,12 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 * Dash
   * **```XcsNx9hSEqDzFZrBrVViiZ8GhYgndBVyEY```**
 
+## Android Resources
+
+### Lock Pattern Wordlist
+
+[Pattern.7z](https://github.com/Digital-Forensics-Discord-Server/LawEnforcementResources/blob/main/pattern.7z) includes an Android Lock Pattern Wordlist taken from over 15,000 actual cases worked. The first 88 patterns should match about 80% of the commonly used lock patterns. Special thanks to [Bjoern Kerler](https://github.com/bkerler) for providing this to the DFIR community.
+
 # Contributing to This Project
 
 New to GitHub? No problem! [Here](https://github.com/Digital-Forensics-Discord-Server/GitHubLearningPlayground) is a repo that you can test the below instructions on until you're comfortable to contribute to this repo!
@@ -228,8 +234,8 @@ As time goes on, this repository will evolve and your Fork will be left behind i
 
 Above is an example of Fetch Upstream combined with doing a Pull Request, which is what you should do when you have something new to the repo you'd like to add to the main repo.
 
-### New to Markdown? No problem! 
+### New to Markdown? No problem!
 
-* Use [StackEdit](https://stackedit.io/app#) to write in Markdown with live preview. 
+* Use [StackEdit](https://stackedit.io/app#) to write in Markdown with live preview.
 * Additionally, GitHub has a useful guide for Markdown syntax [here](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 * Need help with making/using tables in Markdown? Check out this [site](https://www.tablesgenerator.com/markdown_tables)!
