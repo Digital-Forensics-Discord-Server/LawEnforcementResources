@@ -112,12 +112,12 @@ Resources provided by the community that can serve to be useful for Law Enforcem
 
 ## IP Resolution Services
 
-* [MaxMind]{https://www.maxmind.com/en/home} - Useful for resolving IPs. MaxMind is known for offering better geolocation than most other similar services.
+* [MaxMind](https://www.maxmind.com/en/home) - Useful for resolving IPs. MaxMind is known for offering better geolocation than most other similar services.
 * [WhoisXML API](https://www.whoisxmlapi.com/) - Useful for gathering, analyzing, and correlating domain, IP, and DNS data. Obtain precise geographical data down to the postal code with latitude and longitude coordinates, network information, timezone, connected domains, and more for deeper contextualization.
 
 ## MLA Resources
 
-* [UNODC SHERLOC]{https://sherloc.unodc.org/cld/en/st/home.html} - Legislation, CNA list and treaties.
+* [UNODC SHERLOC](https://sherloc.unodc.org/cld/en/st/home.html) - Legislation, CNA list and treaties.
 
 ## Email Analysis
 
